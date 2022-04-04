@@ -6,5 +6,7 @@ Template manager for programming languages and other frameworks
 Having cloned the repo, you should do next
 
 ```
-chmod +x tmpm.sh
+make install
 ```
+
+Enjoy using!
